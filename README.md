@@ -1,4 +1,4 @@
-# Autoencoder-Based Anomaly Detection for PCAP Flows
+# Autoencoder-Based Anomaly Detection  
 
 This project parses a `.pcap` file, extracts basic features using PyShark, and applies an autoencoder to detect anomalous flows.
 
