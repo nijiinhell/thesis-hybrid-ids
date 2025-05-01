@@ -1,6 +1,6 @@
 # Autoencoder-Based Anomaly Detection  
 
-This project parses a `.pcap` file, extracts basic features using PyShark, and applies an autoencoder to detect anomalous flows.
+This project parses a `.pcap` file, extracts basic features using PyShark, and applies an autoencoder to detect anomalous flows. After that, we can manually or automatically integrate it to Snort to complete HIDS process.
 
 ## How It Works
 1. Parses `2021-09-14-agenttesla.pcap` using PyShark.
